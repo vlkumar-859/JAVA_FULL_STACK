@@ -1,0 +1,19 @@
+.MENU a{
+	display: inline-block;
+	text-align: center;
+	padding: 14px;
+	border: 2px black solid;
+	text-decoration: none;
+}
+#topic{
+	border: none;
+	font-size: larger;
+}
+.MENU {
+	border: solid 5px black;
+	border-radius: 10px 10px 10px 10px;
+	padding: 10px;
+}
+SYLLABUS P{
+	width: ;
+}
